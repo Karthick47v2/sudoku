@@ -1,5 +1,5 @@
-#ifndef A_H
-#define A_H
+#ifndef STACK_H
+#define STACK_H
 
 #define MAX 100					//MAX Stack size...
 
